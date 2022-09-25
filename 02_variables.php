@@ -2,7 +2,7 @@
 
 /* ----- Variables & Data Types ----- */
 
-/* --------- PHP Data Types --------- */
+/* --------- PHP Data Types -------- */
 /*
 - String - A string is a series of characters surrounded by quotes
 - Integer - Whole numbers
